@@ -1,2 +1,5 @@
 # hello-world
-Ny very own repository
+Hi humans...
+
+hi, it's me 
+etc...
